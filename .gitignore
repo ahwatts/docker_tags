@@ -8,3 +8,5 @@
 /tmp/
 /vendor/
 /Gemfile.lock
+/.ruby-version
+/.rbenv-gemsets
